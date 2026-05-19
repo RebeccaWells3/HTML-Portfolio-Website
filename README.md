@@ -12,8 +12,6 @@ This is my final project I did for a web development foundations class. I create
 
 -[Career Goals](goals.html)
 
--[Cover Letter](coverletter.html)
-
 -[Resume](index.html)
 
 -[CSS](styles.css)
