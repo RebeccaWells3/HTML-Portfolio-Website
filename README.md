@@ -7,7 +7,7 @@ This is my final project I did for a web development foundations class. I create
 
 ## <ins>Website:</ins>
 
--[Rebecca Wells Portfolio Website](https://rebeccawells3.github.io/HTML/)
+-[Rebecca Wells Portfolio Website](https://rebeccawells3.github.io/HTML-Portfolio-Website/)
 ## <ins>Files:</ins>
 
 -[Career Goals](goals.html)
