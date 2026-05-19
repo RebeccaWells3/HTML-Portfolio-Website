@@ -1,17 +1,39 @@
-# HTML
-This is my final project I did for a web development foundations class. I created a personal portfolio website with three HTML pages.
+# HTML/CSS Portfolio Website
 
-## <ins>Instructions:</ins>
+A multi-page personal portfolio website built as part of a web development foundations course. This project demonstrates foundational front-end development skills including HTML page structure, CSS styling, navigation, and basic JavaScript functionality.
 
--[Final Instructions](https://github.com/RebeccaWells3/HTML/blob/main/D276%20Final%20Instructions.pdf)
+## Live Demo
+https://rebeccawells3.github.io/HTML-Portfolio-Website/
 
-## <ins>Website:</ins>
+## Project Overview
+This project involved designing and building a personal portfolio website from scratch using front-end web technologies. The site includes multiple interconnected pages, custom styling, and small JavaScript functionality for dynamic content behavior.
 
--[Rebecca Wells Portfolio Website](https://rebeccawells3.github.io/HTML-Portfolio-Website/)
-## <ins>Files:</ins>
+## Features
+- Multi-page website navigation
+- Custom CSS styling
+- Personal portfolio layout
+- Resume and career goals sections
+- Dynamic date display using JavaScript
+- Basic console messaging/logic
+- Static website deployment with GitHub Pages
 
--[Career Goals](goals.html)
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
 
--[Resume](index.html)
+## What I Learned
+Through this project, I gained experience with:
+- Structuring multi-page websites with HTML
+- Linking pages and managing navigation
+- Styling layouts with CSS
+- Using basic JavaScript for dynamic page behavior
+- Organizing content for web presentation
+- Deploying a static website using GitHub Pages
 
--[CSS](styles.css)
+## Original Project Context
+This project was completed for a Web Development Foundations course as part of a university assignment.
+
+Original assignment instructions:
+https://github.com/RebeccaWells3/HTML/blob/main/D276%20Final%20Instructions.pdf
